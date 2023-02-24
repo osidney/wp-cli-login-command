@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: WP CLI Login Command Server
- * Description: Companion plugin to the WP-CLI Login Command
- * Author: Evan Mattson
- * Author URI: https://aaemnnost.tv
- * Plugin URI: https://aaemnnost.tv/wp-cli-commands/login/
+ * Plugin Name: Auto Login WordPress
+ * Description: Plugin para autologin no WordPress via WP-CLI
+ * Author: Sidney Andrews
+ * Author URI: https://wordpane.com
+ * Plugin URI: https://wordpane.com
  *
  * Version: 1.4
  */
